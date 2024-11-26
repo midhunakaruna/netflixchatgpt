@@ -13,7 +13,8 @@ npx create-react-app my-reactapp
     @tailwind base;
     @tailwind components;
      @tailwind utilities;
- 
+ - header
+ - Loginfrom
 
  # featuers
  -login/signup
@@ -29,3 +30,7 @@ npx create-react-app my-reactapp
 # netfilx gpt(using chat gpt)
    -search bar
    -movie suggestions
+   # github
+   to push the code github 
+   its any error you can create shh key to add git then you can run remote commands. its worke.
+   shh key command shh-keygen.
